@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
 
 # RestApi
-chaiwutdy/SpringRestfulWebServicesWithJSONExample
+https://github.com/chaiwutdy/SpringRestfulWebServicesWithJSONExample.git
 
 ## Development server
 
